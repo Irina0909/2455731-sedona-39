@@ -2,7 +2,6 @@
 
 * Студент: [Irina  Blatsky](https://irina0909.github.io/2455731-sedona-39/).
 * Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
-* Наставник: [Анна Лисененкова ]
 * Сайт: [Мой проект Седона](https://github.com/Irina0909/2455731-sedona-39).
 
 
